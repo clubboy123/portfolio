@@ -115,8 +115,8 @@ analytics:
 author:
   name             : "KUO Yu Sheng"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "I **sleep** person."
+  location         : "Soe"
   email            :
   links:
     - label: "Email"
